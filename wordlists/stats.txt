@@ -1,0 +1,32 @@
+Wordlist Statistics
+===================
+Total entries (all files): 59492
+Unique entries (all files): 29333
+
+Category counts:
+- springboot.txt: 54
+- api-endpoints.txt: 28662
+- angular-react.txt: 57
+- nodejs.txt: 32
+- cloud-aws.txt: 42
+- admin-panels.txt: 31
+- debug-endpoints.txt: 30
+- graphql.txt: 12
+- backup-files.txt: 35
+- js-discovery.txt: 33
+- master-api-endpoints.txt: 29254
+- high-value.txt: 1000
+- stealth.txt: 250
+
+Extension counts (unique entries):
+- .map: 16
+- .js: 45
+- .json: 35
+- .bak: 32
+- .old: 29
+- .zip: 29
+- .tar.gz: 29
+- .yml: 33
+- .yaml: 30
+- .env: 29
+- .txt: 29
