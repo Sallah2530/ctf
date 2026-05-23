@@ -5,6 +5,7 @@
 Generated enterprise-focused wordlists for directory and API fuzzing are in `wordlists/`.
 
 Key files:
+- `all-in-one.txt` (single combined list, 29k+ entries)
 - `master-api-endpoints.txt` (29k+ high-signal entries)
 - `api-endpoints.txt`
 - `springboot.txt`
